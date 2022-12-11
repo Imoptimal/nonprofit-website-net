@@ -4,4 +4,4 @@ Detailed guide on how to build a website for your nonprofit organization, using 
 
 Comming soon!
 
-- Built with CMS.js
+- Built with CMS.js[https://github.com/chrisdiana/cms.js]
