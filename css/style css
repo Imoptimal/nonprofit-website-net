@@ -1,4 +1,13 @@
-/* CMS.js overrides */
+/* Main Styles */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.masthead {}
 
 nav {
     display: block;
@@ -15,6 +24,9 @@ nav ul li {
 nav ul li a {
     font-size: 18px;
 }
+
+#cms {}
+
 .footer {
     padding-bottom: 15px;
 }
