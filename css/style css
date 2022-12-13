@@ -7,7 +7,9 @@
     align-items: center;
 }
 
-.masthead {}
+.masthead {
+    flex-basis: 20%;
+}
 
 nav {
     display: block;
@@ -25,9 +27,12 @@ nav ul li a {
     font-size: 18px;
 }
 
-#cms {}
+#cms {
+    flex-basis: 70%;
+}
 
 .footer {
+    flex-basis: 10%;
     padding-bottom: 15px;
 }
 .sitename img {
